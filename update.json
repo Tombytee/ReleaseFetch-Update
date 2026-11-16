@@ -1,27 +1,24 @@
 
 {
-  "versionName": "1.3",
-  "versionCode": 3,
-  "apkUrl": "https://github.com/Tombytee/ReleaseFetch/releases/download/v1.3/app-release.apk",
-  "releaseNotes": "🚀 Update System Introduction
+  "versionName": "1.4",
+  "versionCode": 4,
+  "apkUrl": "https://github.com/Tombytee/ReleaseFetch/releases/download/v1.4/app-release.apk",
+  "releaseNotes": "### 📦 Direct APK Installation
+- Added direct **Install** button after downloads.
+- No more manual APK selection.
 
-Improved update handling and release verification for a more reliable app experience.
+### 📁 Dedicated Downloads Folder
+- APKs are now saved in `Downloads/ReleaseFetch/`.
+- Downloaded APKs remain saved permanently.
+- Temporary update APKs are still auto-deleted.
 
-⚡ Performance Improvements
+### 🛠️ Other Improvements
+- Added a **Cancel** button to the download screen.
+- Added Markdown support to release notes.
 
-Optimized release loading and scrolling with real GitHub API pagination. Releases now load in smaller batches of 5 for a smoother experience.
+---
 
-🛠️ Bug Fixes & Stability
+**Creator Credit:** Subham (Tombytee) 🇮🇳
 
-Improved pagination reliability, caching, and duplicate request prevention for more consistent release handling.
-
-✨ Additional Improvements
-
-Enhanced build verification and overall release handling for better stability.
-
-━━━━━━━━━━━━━━━━
-
-Creator Credit: Subham (Tombytee) 🇮🇳
-
-Pakistan, Get Fucked! 🇵🇰🤡"
+**Pakistan, Get Fucked! 🇵🇰🤡**"
 }
