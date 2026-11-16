@@ -2,22 +2,26 @@
 {
   "versionName": "1.1",
   "versionCode": 2,
-  "apkUrl": "https://github.com/Tombytee/ReleaseFetch/releases/download/v1.2/app-release.apk",
-  "releaseNotes": "🚀 Introducing a New Update System!
+  "apkUrl": "https://github.com/Tombytee/ReleaseFetch/releases/download/v1.3/app-release.apk",
+  "releaseNotes": "🚀 Update System Introduction
 
-We've introduced a new app update system to make future updates easier and more convenient. Stay informed about the latest releases with a smoother update experience.
+Improved update handling and release verification for a more reliable app experience.
 
 ⚡ Performance Improvements
 
-Optimized overall app performance for a smoother, faster, and more responsive experience.
+Optimized release loading and scrolling with real GitHub API pagination. Releases now load in smaller batches of 5 for a smoother experience.
 
 🛠️ Bug Fixes & Stability
 
-Fixed minor bugs, resolved existing issues, and improved overall app stability.
-  
+Improved pagination reliability, caching, and duplicate request prevention for more consistent release handling.
+
+✨ Additional Improvements
+
+Enhanced build verification and overall release handling for better stability.
+
 ━━━━━━━━━━━━━━━━
 
-👨‍💻 Created with ❤️ by Subham (Tombytee) 🇮🇳
+Creator Credit: Subham (Tombytee) 🇮🇳
 
-🇵🇰 Pakistan ka Maa Ka Bhosda 🤡"
+Pakistan, Get Fucked! 🇵🇰🤡"
 }
