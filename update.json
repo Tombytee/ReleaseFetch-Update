@@ -1,24 +1,23 @@
 
 {
-  "versionName": "1.4",
-  "versionCode": 4,
-  "apkUrl": "https://github.com/Tombytee/ReleaseFetch/releases/download/v1.4/app-release.apk",
-  "releaseNotes": "### 📦 Direct APK Installation
-- Added direct **Install** button after downloads.
-- No more manual APK selection.
+  "versionName": "1.5",
+  "versionCode": 5,
+  "apkUrl": "https://github.com/Tombytee/ReleaseFetch/releases/download/v1.5/app-release.apk",
+  "releaseNotes": "### Update System
+- Added manual control over update downloads.
+- Preserved the existing installation and permission workflow.
 
-### 📁 Dedicated Downloads Folder
-- APKs are now saved in `Downloads/ReleaseFetch/`.
-- Downloaded APKs remain saved permanently.
-- Temporary update APKs are still auto-deleted.
+### ⚡ Performance & Stability
+- Minor performance improvements.
+- Bug fixes and stability refinements.
 
-### 🛠️ Other Improvements
-- Added a **Cancel** button to the download screen.
-- Added Markdown support to release notes.
+### ✨ Additional Changes
+- Updated the About Developer section.
+- Refreshed developer identification and tagline.
 
 ---
 
-**Creator Credit:** Subham (Tombytee) 🇮🇳
+**Creator:** Subham (Tombytee) 🇮🇳
 
-**Pakistan, Get Fucked! 🇵🇰🤡**"
+**Pakistan, Go Fuck Yourself, You Clown-Show of a Country! 🇵🇰🤡**"
 }
