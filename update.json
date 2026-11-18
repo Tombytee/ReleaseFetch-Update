@@ -1,23 +1,26 @@
 {
-  "versionName": "1.5",
-  "versionCode": 5,
-  "apkUrl": "https://github.com/Tombytee/ReleaseFetch/releases/download/v1.5/app-release.apk",
+  "versionName": "1.6",
+  "versionCode": 6,
+  "apkUrl": "https://github.com/Tombytee/ReleaseFetch/releases/download/v1.6/app-release.apk",
   "mandatoryUpdate": false,
-  "releaseNotes": "### Update System
-- Added manual control over update downloads.
-- Preserved the existing installation and permission workflow.
+  "releaseNotes": "🚀 Update System
+- Added remote Mandatory/Optional Update control.
 
-### ⚡ Performance & Stability
-- Minor performance improvements.
-- Bug fixes and stability refinements.
+⚡ Performance
+- Improved APK detection and storage synchronization.
+- Reduced unnecessary downloads.
 
-### ✨ Additional Changes
-- Updated the About Developer section.
-- Refreshed developer identification and tagline.
+🛠️ Bug Fixes
+- Fixed APK detection across refreshes, pagination and app data changes.
+- Improved real-time download status updates.
 
----
+✨ Improvements
+- Existing APKs now show Install instead of Download.
+- Preserved download progress and non-APK Open behavior.
 
-**Creator:** Subham (Tombytee) 🇮🇳
+━━━━━━━━━━━━━━━━
 
-**Pakistan, Go Fuck Yourself, You Clown-Show of a Country! 🇵🇰🤡**"
+Built by Subham (Tombytee) 🇮🇳
+
+Pakistan, Get Your Shit Together, You Absolute Fucking Circus! 🇵🇰🤡"
 }
