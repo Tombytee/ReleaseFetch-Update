@@ -2,7 +2,7 @@
   "versionName": "1.6",
   "versionCode": 6,
   "apkUrl": "https://github.com/Tombytee/ReleaseFetch/releases/download/v1.6/app-release.apk",
-  "mandatoryUpdate": true,
+  "mandatoryUpdate": false,
   "releaseNotes": "🚀 Update System
 - Added remote Mandatory/Optional Update control.
 
